@@ -10,6 +10,4 @@ Dibuat dengan :
 
 Untuk demo website bisa diakses di link dibawah ini
 
-```
-[https://atmakarimang.github.io/](https://atmakarimang.github.io/)
-```
+[Klik Aku](https://atmakarimang.github.io/)
