@@ -153,3 +153,8 @@ body {
     margin-top: 2%;
   }
 }
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
