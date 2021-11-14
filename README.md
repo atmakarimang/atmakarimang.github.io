@@ -7,7 +7,3 @@ Dibuat dengan :
 1. HTML
 2. CSS
 3. BootStrap ver 5.1.3
-
-Untuk demo website bisa diakses di link dibawah ini
-
-[Klik Aku](https://atmakarimang.github.io/)
